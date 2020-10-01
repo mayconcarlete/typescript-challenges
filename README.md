@@ -1,5 +1,5 @@
-# start-config-typescript
-Repositório criado para ter uma configuração base para projetos em typescript.
+# Typescript Chanllenges
+Repositório criado para armazenar desafios de programação feitos em typescript com foco principal(porém não único) em strings com RegExp.
 ### libraries:
 
 -Typescript
