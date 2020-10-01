@@ -1,5 +1,5 @@
-# Typescript Chanllenges
-Repositório criado para armazenar desafios de programação feitos em typescript com foco principal(porém não único) em strings com RegExp.
+# Typescript Challenges
+Repositório criado para armazenar desafios de programação feitos em typescript/TDD com foco principal(porém não único) em strings com RegExp.
 ### libraries:
 
 -Typescript
